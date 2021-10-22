@@ -1,6 +1,14 @@
 ### Hi there! 👋
 ## I am Jesus, Second Year Software Engineering Student
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesus-15&label=Profile%20views&color=0e75b6&style=flat" alt="jesus-15" /> </p>
+
+<!--
+<a href="https://twitter.com/xtenzq" target="blank"><img align="left" src="icons/twitter.svg" alt="xtenzq" width="22px" /></a>
+<a href="https://linkedin.com/in/xtenzq" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
+<a href="https://fb.com/nrusetski" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
+-->
+
 <!--
 **Jesus-15/Jesus-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +22,10 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📄 Check my CV and website for more info;
+
+Recent achievements 🏆
+🏆 2021 KIEE 52nd Summer Conference Excellence Award (as co-author);
 
 ## Technologies and Tools:
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
