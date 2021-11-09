@@ -1,13 +1,13 @@
-### Hi there! 👋
-## I am Jesus, Second Year Software Engineering Student
+<h1 align="center">Hi 👋, I'm Jesus</h1>
+<h3 align="center">Second Year Software Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesus-15&label=Profile%20views&color=0e75b6&style=flat" alt="jesus-15" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jesus-15&label=Profile%20views&color=0e75b6&style=flat" alt="jesus-15" /> </p>
 
 ## About Me:
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+const Jesus = {
+  pronouns: "He" | "Him",
+  code: [Javascript, HTML, CSS, PHP, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
@@ -20,14 +20,14 @@ const thai = {
             js: ["Node", "Fastify", "Express", "SuiteScript"],
         },
         mobileApp: {
-            native: ["Android Development", "IOS Development"]
+            native: ["Android Development"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     }                    
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+<!--  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+} -->
 ```
 
 <!--
@@ -96,8 +96,7 @@ Recent achievements 🏆
 
 
 
-<h1 align="center">Hi 👋, I'm Jesus</h1>
-<h3 align="center">Second Year Software Engineering Student</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesus-15&label=Profile%20views&color=0e75b6&style=flat" alt="jesus-15" /> </p>
 
