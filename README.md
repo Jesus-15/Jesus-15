@@ -3,6 +3,33 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesus-15&label=Profile%20views&color=0e75b6&style=flat" alt="jesus-15" /> </p>
 
+## About Me:
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+  technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express", "SuiteScript"],
+        },
+        mobileApp: {
+            native: ["Android Development", "IOS Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    }                    
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 <!--
 <a href="https://twitter.com/xtenzq" target="blank"><img align="left" src="icons/twitter.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://linkedin.com/in/xtenzq" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
@@ -61,32 +88,7 @@ Recent achievements 🏆
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
-## About Me:
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
-  technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express", "SuiteScript"],
-        },
-        mobileApp: {
-            native: ["Android Development", "IOS Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    }                    
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
