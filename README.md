@@ -7,7 +7,7 @@
 ```javascript
 const Jesus = {
   pronouns: "He" | "Him",
-  programmingLanguages: [Javascript, HTML, CSS, PHP, Python, Java, C],
+  programmingLanguages: [Python, Javascript, HTML, CSS, PHP, Java, C],
   Frameworks: [Flask],
   technologies: {
         frontEnd {
