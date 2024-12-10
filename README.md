@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus</h1>
-<h3 align="center">Second Year Software Engineering Student</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jesus-15&label=Profile%20views&color=0e75b6&style=flat" alt="jesus-15" /> </p>
 
